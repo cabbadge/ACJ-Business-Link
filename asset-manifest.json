@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ACJ-Business-Link/static/css/main.9a9ba9a8.css",
+    "main.js": "/ACJ-Business-Link/static/js/main.e0b54c44.js",
+    "static/js/453.4e0c0dc0.chunk.js": "/ACJ-Business-Link/static/js/453.4e0c0dc0.chunk.js",
+    "index.html": "/ACJ-Business-Link/index.html",
+    "main.9a9ba9a8.css.map": "/ACJ-Business-Link/static/css/main.9a9ba9a8.css.map",
+    "main.e0b54c44.js.map": "/ACJ-Business-Link/static/js/main.e0b54c44.js.map",
+    "453.4e0c0dc0.chunk.js.map": "/ACJ-Business-Link/static/js/453.4e0c0dc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a9ba9a8.css",
+    "static/js/main.e0b54c44.js"
+  ]
+}
